@@ -1,0 +1,12 @@
+C:\Projetos\app-trilon\back-office\Authentication.DataVo\bin\Debug\netcoreapp2.2\Authentication.DataVo.deps.json
+C:\Projetos\app-trilon\back-office\Authentication.DataVo\bin\Debug\netcoreapp2.2\Authentication.DataVo.dll
+C:\Projetos\app-trilon\back-office\Authentication.DataVo\bin\Debug\netcoreapp2.2\Authentication.DataVo.pdb
+C:\Projetos\app-trilon\back-office\Authentication.DataVo\bin\Debug\netcoreapp2.2\Authentication.Domain.dll
+C:\Projetos\app-trilon\back-office\Authentication.DataVo\bin\Debug\netcoreapp2.2\Authentication.Domain.pdb
+C:\Projetos\app-trilon\back-office\Authentication.DataVo\obj\Debug\netcoreapp2.2\Authentication.DataVo.csprojAssemblyReference.cache
+C:\Projetos\app-trilon\back-office\Authentication.DataVo\obj\Debug\netcoreapp2.2\Authentication.DataVo.csproj.CoreCompileInputs.cache
+C:\Projetos\app-trilon\back-office\Authentication.DataVo\obj\Debug\netcoreapp2.2\Authentication.DataVo.AssemblyInfoInputs.cache
+C:\Projetos\app-trilon\back-office\Authentication.DataVo\obj\Debug\netcoreapp2.2\Authentication.DataVo.AssemblyInfo.cs
+C:\Projetos\app-trilon\back-office\Authentication.DataVo\obj\Debug\netcoreapp2.2\Authentication.DataVo.csproj.CopyComplete
+C:\Projetos\app-trilon\back-office\Authentication.DataVo\obj\Debug\netcoreapp2.2\Authentication.DataVo.dll
+C:\Projetos\app-trilon\back-office\Authentication.DataVo\obj\Debug\netcoreapp2.2\Authentication.DataVo.pdb

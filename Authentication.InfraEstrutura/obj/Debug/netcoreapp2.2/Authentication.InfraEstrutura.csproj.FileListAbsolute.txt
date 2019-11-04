@@ -1,0 +1,13 @@
+C:\Projetos\app-trilon\back-office\Authentication.InfraEstrutura\bin\Debug\netcoreapp2.2\Authentication.InfraEstrutura.deps.json
+C:\Projetos\app-trilon\back-office\Authentication.InfraEstrutura\bin\Debug\netcoreapp2.2\Authentication.InfraEstrutura.dll
+C:\Projetos\app-trilon\back-office\Authentication.InfraEstrutura\bin\Debug\netcoreapp2.2\Authentication.InfraEstrutura.pdb
+C:\Projetos\app-trilon\back-office\Authentication.InfraEstrutura\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\app-trilon\back-office\Authentication.InfraEstrutura\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.pdb
+C:\Projetos\app-trilon\back-office\Authentication.InfraEstrutura\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.xml
+C:\Projetos\app-trilon\back-office\Authentication.InfraEstrutura\obj\Debug\netcoreapp2.2\Authentication.InfraEstrutura.csprojAssemblyReference.cache
+C:\Projetos\app-trilon\back-office\Authentication.InfraEstrutura\obj\Debug\netcoreapp2.2\Authentication.InfraEstrutura.csproj.CoreCompileInputs.cache
+C:\Projetos\app-trilon\back-office\Authentication.InfraEstrutura\obj\Debug\netcoreapp2.2\Authentication.InfraEstrutura.AssemblyInfoInputs.cache
+C:\Projetos\app-trilon\back-office\Authentication.InfraEstrutura\obj\Debug\netcoreapp2.2\Authentication.InfraEstrutura.AssemblyInfo.cs
+C:\Projetos\app-trilon\back-office\Authentication.InfraEstrutura\obj\Debug\netcoreapp2.2\Authentication.InfraEstrutura.csproj.CopyComplete
+C:\Projetos\app-trilon\back-office\Authentication.InfraEstrutura\obj\Debug\netcoreapp2.2\Authentication.InfraEstrutura.dll
+C:\Projetos\app-trilon\back-office\Authentication.InfraEstrutura\obj\Debug\netcoreapp2.2\Authentication.InfraEstrutura.pdb

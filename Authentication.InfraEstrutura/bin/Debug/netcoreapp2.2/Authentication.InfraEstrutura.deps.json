@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "6a5565056c298078be96bee04e213b7b072240e0"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Authentication.InfraEstrutura/1.0.0": {
+        "dependencies": {
+          "Rijndael256.Core": "3.2.5",
+          "Microsoft.IdentityModel.Tokens": "5.3.0.0"
+        },
+        "runtime": {
+          "Authentication.InfraEstrutura.dll": {}
+        }
+      },
+      "Rijndael256.Core/3.2.5": {
+        "runtime": {
+          "lib/netstandard1.3/Rijndael256.dll": {
+            "assemblyVersion": "3.2.5.0",
+            "fileVersion": "3.2.5.0"
+          }
+        }
+      },
+      "Microsoft.IdentityModel.Tokens/5.3.0.0": {
+        "runtime": {
+          "Microsoft.IdentityModel.Tokens.dll": {
+            "assemblyVersion": "5.3.0.0",
+            "fileVersion": "5.3.0.51005"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Authentication.InfraEstrutura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rijndael256.Core/3.2.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sTKmhUVOs3Bv/rccTj6VaHAhqAquCriH5rQAIUMsvk59CYgWhfNIJuMRQcgw5r2byXsn2FH9amCskJ08OqzebA==",
+      "path": "rijndael256.core/3.2.5",
+      "hashPath": "rijndael256.core.3.2.5.nupkg.sha512"
+    },
+    "Microsoft.IdentityModel.Tokens/5.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
